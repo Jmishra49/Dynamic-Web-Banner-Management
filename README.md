@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Dynamic-Web-Banner-Management
+Welcome to our Dynamic Web Banner Management site—a streamlined solution designed for easy customization and management of promotional banners on any website. This platform allows administrators to effortlessly create, update, and manage banners that feature countdown timers, images, and custom text, all through a user-friendly dashboard.
+>>>>>>> origin/main
